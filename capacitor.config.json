@@ -1,0 +1,6 @@
+{
+  "appId": "com.glowmax.pro",
+  "appName": "GlowMax Pro",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
